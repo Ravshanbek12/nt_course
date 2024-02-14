@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612519749286",
+    "project_id": "ntcourse-92228",
+    "storage_bucket": "ntcourse-92228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612519749286:android:da19b4c4cc791aea9a3667",
+        "android_client_info": {
+          "package_name": "com.example.nt_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612519749286-agl278nff7u69rsg44eecfhr0l197bgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvOU0nXH8QSU0qTJeLM0lOkhEqeM6bfOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612519749286-agl278nff7u69rsg44eecfhr0l197bgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
